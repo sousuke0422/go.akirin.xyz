@@ -1,0 +1,1 @@
+# go.akirin.xyz
