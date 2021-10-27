@@ -1,9 +1,9 @@
 # https://developers.cloudflare.com/pages/platform/redirects
 
 # github
-#/ayuskey https://github.com/TeamBlackCrystal/misskey 302
-#/e2e https://github.com/TeamBlackCrystal/ayuskey-e2e 302
-#/summaly https://github.com/TeamBlackCrystal/summaly 302
+#/ayuskey https://github.com/TeamBlackCrystal/misskey 302!
+#/e2e https://github.com/TeamBlackCrystal/ayuskey-e2e 302!
+#/summaly https://github.com/TeamBlackCrystal/summaly 302!
 /ayuskey https://github.com/TeamBlackCrystal/misskey 302
 /e2e https://github.com/TeamBlackCrystal/ayuskey-e2e 302
 /summaly https://github.com/TeamBlackCrystal/summaly 302
